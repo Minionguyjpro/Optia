@@ -1,5 +1,5 @@
 ---
 name: Question
-about: Having an question? Ask it.
+about: Ask here for help.
 ---
 
