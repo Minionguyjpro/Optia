@@ -1,12 +1,12 @@
 ---
 name: Feature Request
-about: Suggest an idea for Purpur
+about: Suggest an idea for Optia
 ---
 
 <!--
-  Thank you for filling out a feature request for Purpur! Please be as detailed as possible so that we may consider and review the request easier.
+  Thank you for filling out a feature request for Optia! Please be as detailed as possible so that we may consider and review the request easier.
   We ask that you search all the issues to avoid a duplicate feature request. If one exists, please reply if you have anything to add.
-  Before requesting a new feature, please make sure you are using the latest version and that the feature you are requesting is not already in Purpur.
+  Before requesting a new feature, please make sure you are using the latest version and that the feature you are requesting is not already in Optia.
 -->
 
 ## Is your feature request related to a problem?
@@ -27,7 +27,7 @@ about: Suggest an idea for Purpur
 ## Agreements
 Please agree to the following.
 - [ ] I have searched for and ensured there isn't already an open issue regarding this.
-- [ ] I have ensured the feature I'm requesting isn't already in the latest supported Purpur build.
+- [ ] I have ensured the feature I'm requesting isn't already in the latest supported Optia build.
 
 ## Other
 <!--
