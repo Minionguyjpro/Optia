@@ -1,4 +1,4 @@
-name: Build Purpur
+name: Build Optia
 on: [ pull_request ]
 jobs:
   build:
